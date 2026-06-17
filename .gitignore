@@ -1,0 +1,6 @@
+# ISO image
+*.iso
+
+# QEMU disk images
+*.qcow2
+disk.qcow2
